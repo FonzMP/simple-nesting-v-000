@@ -86,7 +86,7 @@ def adding_matz
         }
      }
 
-		 programmer_hash[:dennis_ritchie][:languages][0]
+		 programmer_hash[:alex_wilson] = "fancy feast"
 
 end
 
