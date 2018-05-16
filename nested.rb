@@ -86,8 +86,7 @@ def adding_matz
         }
      }
 
-		 programmer_hash[:alex_wilson] = "fancy feast"
-		 programmer_hash
+		 programmer_hash << {}
 
 end
 
